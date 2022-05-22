@@ -10,3 +10,7 @@ use expo app to scan the qr code
 
 need to install android studio
 
+### reference
+
+https://github.com/quantificial/react-native-practical-guide-code
+
